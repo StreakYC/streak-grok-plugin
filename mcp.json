@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "streak": {
+      "url": "https://api.streak.com/mcp"
+    }
+  }
+}
